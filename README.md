@@ -11,7 +11,7 @@ Switch Cheat File Converter
 
 # usage
 input   
-【0123456789ABCDEF.txt】
+C:\0123456789ABCDEF.txt
 ```
 [hoge]
 04000000 03000000 10000000
