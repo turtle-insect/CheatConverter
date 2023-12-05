@@ -1,6 +1,14 @@
 # CheatConverter
 Switch Cheat File Converter
 
+# Run Spec
+* Windows 10
+* [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
+# Build Spec
+* Windows 10
+* [Visual Studio 2022](https://visualstudio.microsoft.com/ja/vs/)
+
 # usage
 input   
 【0123456789ABCDEF.txt】
