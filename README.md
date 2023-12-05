@@ -10,6 +10,12 @@ Switch Cheat File Converter
 * [Visual Studio 2022](https://visualstudio.microsoft.com/ja/vs/)
 
 # usage
+<p>
+  <a>
+    <img src="https://github.com/turtle-insect/CheatConverter/assets/30800900/393f6b44-722c-497c-8d4a-33ef648ac50c"/>
+  </a>
+</p>
+
 input   
 C:\0123456789ABCDEF.txt
 ```
